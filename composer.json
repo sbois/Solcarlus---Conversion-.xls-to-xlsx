@@ -1,0 +1,14 @@
+{
+    "name": "solcarlus/xls-converter",
+    "description": "Convertisseur XLS vers XLSX - Thème Gladiateur Romain",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "autoload": {
+        "psr-4": {
+            "Solcarlus\\": "src/"
+        }
+    }
+}
